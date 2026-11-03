@@ -1,0 +1,1 @@
+Die ZIP enthält die Tischtennis-Web-App. Sie ist noch keine APK. Für PWABuilder muss sie unter einer HTTPS-Adresse erreichbar sein. Beim öffentlichen Hosting können andere die App-Seite aufrufen; Turnierergebnisse werden in diesem einfachen Stand nicht an einen Server gesendet.

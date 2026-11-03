@@ -1,0 +1,8 @@
+{
+  "name": "Tischtennis-Turnier",
+  "short_name": "Tischtennis",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#123c69"
+}
